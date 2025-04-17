@@ -1,6 +1,6 @@
 import Info from"../../components/Info";
 import { RiDownload2Fill } from "react-icons/ri";
-import Cv from '../../pdf/cv-Yashwanth.pdf'
+import Cv from '../../pdf/Yashwanth_CV.pdf'
 import Stats from "../../components/Stats";
 import { skill } from "../../Data";
 import SkillsItem from "../../components/SkillsItem";
